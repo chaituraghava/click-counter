@@ -26,3 +26,4 @@ render(){
         </div>
     )
 }
+export default  ClickCounter 
